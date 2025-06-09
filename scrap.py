@@ -20,3 +20,8 @@ df = pd.DataFrame(data)
 df.to_csv("tg_comm.csv", index=False, encoding='utf-8-sig')
 
 print(".csv faylga comment lar saqlandi.")
+
+
+
+
+
